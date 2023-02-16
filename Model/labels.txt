@@ -1,0 +1,6 @@
+0 plus
+1 minus
+2 multiply
+3 divide
+4 equals
+5 numbers
