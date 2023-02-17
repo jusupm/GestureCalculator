@@ -1,4 +1,7 @@
 Required packages: 
+  
   -mediapipe
-  -tensorflow                  
+  
+  -tensorflow 
+  
   -cvzone
