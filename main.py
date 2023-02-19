@@ -107,6 +107,7 @@ while True:
             counter = 0
         else:
             counter += 1
+            cv2.rectangle(img, (0, 450), (counter*20, 480), (0, 255, 0), -1)  #greeen bar indicator
             if (counter >= waitTime):           #time delay for each reading
                 finalStr += str(recognizedSign)
                 counter = 0
